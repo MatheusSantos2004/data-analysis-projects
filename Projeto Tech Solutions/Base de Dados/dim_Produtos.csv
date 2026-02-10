@@ -1,0 +1,11 @@
+"ID_Produto";"Nome";"Categoria";"Custo_Unit";"Preco_Venda"
+"P01";"Suporte para Notebook";"Acessórios";20;50
+"P02";"Monitor";"Periféricos";600;950
+"P03";"Mouse";"Periféricos";70;150
+"P04";"Placa de Vídeo";"Hardware";1000;1200
+"P05";"Placa Mãe";"Hardware";450;600
+"P06";"Memória RAM";"Hardware";600;850
+"P07";"SSD";"Hardware";300;500
+"P08";"Teclado";"Periféricos";150;300
+"P09";"Cabo HDMI";"Acessórios";50;100
+"P10";"Adaptador USB";"Acessórios";30;60
