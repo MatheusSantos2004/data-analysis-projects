@@ -1,0 +1,35 @@
+📊 Análise Global de Mortalidade (2015-2025)
+📋 Sobre o Projeto
+Este projeto apresenta uma análise detalhada das causas de morte em nível global durante o período de 2015 a 2025. O objetivo foi transformar dados brutos de saúde em insights acionáveis, permitindo identificar padrões por gênero, geografia e faixa etária.
+
+🛠️ Stack Técnica
+Banco de Dados: SQL (para limpeza, filtragem e estruturação).
+Visualização: Power BI (Desktop & Service).
+Processo de Dados: ETL (Extract, Transform, Load) via scripts SQL e Power Query.
+
+⚙️ Fluxo de Engenharia de Dados (ETL)
+Diferente de análises simples, este projeto contou com uma camada robusta de tratamento de dados via SQL antes da visualização:
+
+Ingestão: Carga de arquivos CSV brutos para o ambiente SQL.
+Transformação (SQL):
+
+Padronização de nomes de países e continentes.
+Limpeza de registros nulos e inconsistentes.
+Exportação Otimizada: Geração de um dataset final em CSV, estruturado especificamente para performance no Power BI.
+
+📈 Visualizações e Dashboards
+O relatório foi dividido em duas camadas principais para facilitar a exploração dos dados:
+
+1. Visão Executiva (Gráficos)
+Totalidade de Mortes (2015-2025): Gráfico de linha que demonstra a flutuação histórica, permitindo observar picos e quedas.
+Mapa de Mortalidade Geral: Visualização geoespacial para identificar regiões com maiores índices de óbitos.
+Comparativo por Gênero: Gráfico de barras comparando as principais causas (como Doenças Cardiovasculares e Acidentes) entre homens e mulheres.
+KPIs de Resumo: Cards dinâmicos mostrando o total de mortes segregado por gênero (33 Mi homens / 34 Mi mulheres).
+
+2. Visão Analítica (Tabela Detalhada)
+Uma interface de drill-down que permite ao usuário filtrar por Ano, Continente, País e Causa específica, exibindo o número exato de mortes e a taxa de mortalidade por 1.000.
+
+🎨 UI/UX Highlights
+Menu Retrátil: Implementação de uma barra lateral de filtros com efeito de sombreamento (overlay), otimizando o espaço da tela e melhorando a experiência do usuário.
+
+Design Minimalista: Uso de paleta de cores sóbria e ícones intuitivos para navegação.
