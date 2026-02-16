@@ -1,0 +1,261 @@
+"Ano";"País";"Gênero";"Agrupamento_por_idade";"Causa_da_Morte";"Número_de_Mortes";"Taxa_de_Mortalidade_por_1000"
+2022;"Índia";"Masculino";"0-14";"Desastres Naturais";73272;2,79
+2025;"Alemanha";"Feminino";"0-14";"Homicídio";421169;0,71
+2020;"Japão";"Feminino";"30-44";"Doenças Infecciosas";103315;0,75
+2023;"Alemanha";"Masculino";"30-44";"Suicídio";220423;11,86
+2015;"Nigéria";"Feminino";"15-29";"AVC";157810;9,5
+2024;"Alemanha";"Feminino";"30-44";"Doença Renal";166670;6,46
+2023;"Rússia";"Masculino";"60+";"Doenças Infecciosas";269470;10,01
+2016;"China";"Feminino";"30-44";"Diabetes";423002;1,65
+2024;"Alemanha";"Masculino";"0-14";"Acidentes de Trânsito";133301;7,45
+2017;"Alemanha";"Masculino";"60+";"Desastres Naturais";117230;8,55
+2020;"Nigéria";"Feminino";"15-29";"Doenças Cardiovasculares";487075;7,64
+2025;"Alemanha";"Masculino";"45-59";"Homicídio";261390;9,16
+2023;"Estados Unidos";"Feminino";"45-59";"Desastres Naturais";302643;10,12
+2022;"Rússia";"Masculino";"45-59";"Câncer";323050;9,7
+2017;"Japão";"Feminino";"0-14";"Diabetes";79501;1,77
+2020;"Paquistão";"Feminino";"0-14";"Suicídio";303269;9,76
+2019;"China";"Feminino";"0-14";"Doenças Cardiovasculares";11580;2,72
+2024;"Paquistão";"Feminino";"15-29";"Homicídio";470752;9,94
+2023;"China";"Masculino";"60+";"Câncer";368938;9,23
+2024;"Japão";"Masculino";"30-44";"Acidentes de Trânsito";174393;1,6
+2019;"Estados Unidos";"Masculino";"15-29";"AVC";299725;8,05
+2021;"Reino Unido";"Feminino";"0-14";"Câncer";459397;1,09
+2022;"Estados Unidos";"Feminino";"45-59";"Câncer";394396;0,85
+2023;"Estados Unidos";"Feminino";"0-14";"Acidentes de Trânsito";480956;8,51
+2017;"China";"Masculino";"60+";"Doença Renal";379840;6,67
+2025;"Nigéria";"Masculino";"30-44";"Acidentes de Trânsito";491785;2,39
+2023;"Japão";"Masculino";"30-44";"Câncer";359174;5,3
+2018;"China";"Feminino";"45-59";"Câncer";495410;6,62
+2015;"Estados Unidos";"Feminino";"15-29";"AVC";455307;3,91
+2023;"Brasil";"Feminino";"60+";"Acidentes de Trânsito";28361;7,24
+2021;"China";"Feminino";"45-59";"Suicídio";209307;3,66
+2022;"Japão";"Feminino";"15-29";"Doenças Infecciosas";96773;10,61
+2019;"Alemanha";"Masculino";"30-44";"AVC";355976;3,72
+2023;"Reino Unido";"Masculino";"0-14";"Acidentes de Trânsito";307827;3,15
+2015;"Índia";"Feminino";"30-44";"AVC";415767;3,85
+2015;"Paquistão";"Masculino";"0-14";"Doenças Respiratórias";279621;9,5
+2020;"Reino Unido";"Feminino";"15-29";"Acidentes de Trânsito";321234;3,36
+2020;"Brasil";"Feminino";"0-14";"Câncer";86958;6,9
+2016;"Rússia";"Masculino";"30-44";"Suicídio";257060;2,52
+2023;"Estados Unidos";"Feminino";"0-14";"Homicídio";395091;2,68
+2015;"Paquistão";"Feminino";"45-59";"Suicídio";456228;7,13
+2016;"Alemanha";"Feminino";"60+";"Suicídio";29028;1,76
+2015;"Paquistão";"Feminino";"30-44";"Doenças Respiratórias";453417;0,23
+2016;"Alemanha";"Masculino";"30-44";"AVC";270753;4,7
+2019;"Nigéria";"Feminino";"15-29";"Câncer";140387;11,17
+2015;"China";"Masculino";"45-59";"Doenças Respiratórias";334246;10,41
+2019;"China";"Masculino";"60+";"Desastres Naturais";302955;8,66
+2021;"China";"Masculino";"45-59";"Homicídio";246578;3,32
+2020;"Paquistão";"Masculino";"60+";"Doenças Infecciosas";142926;6,13
+2020;"Reino Unido";"Feminino";"0-14";"Doença Renal";454641;4,61
+2015;"Nigéria";"Feminino";"45-59";"Desastres Naturais";237119;7,45
+2022;"Estados Unidos";"Masculino";"45-59";"Suicídio";496742;10,61
+2018;"Japão";"Feminino";"0-14";"AVC";88229;1,74
+2023;"Brasil";"Feminino";"0-14";"Desastres Naturais";13896;7,81
+2019;"Índia";"Masculino";"60+";"Câncer";78656;11,23
+2015;"Índia";"Feminino";"45-59";"Doenças Respiratórias";433132;8,66
+2015;"Alemanha";"Masculino";"15-29";"Acidentes de Trânsito";403451;1,7
+2019;"Rússia";"Masculino";"60+";"Doenças Cardiovasculares";341092;11,5
+2023;"China";"Feminino";"60+";"AVC";262243;2,43
+2017;"China";"Feminino";"0-14";"Doença Renal";76336;1,29
+2019;"Brasil";"Masculino";"60+";"Suicídio";353639;10,27
+2024;"Rússia";"Feminino";"0-14";"Acidentes de Trânsito";377017;11,14
+2021;"Alemanha";"Masculino";"0-14";"Doença Renal";59135;4,32
+2023;"Paquistão";"Masculino";"30-44";"AVC";321892;8,67
+2022;"Reino Unido";"Masculino";"30-44";"AVC";425010;6,98
+2019;"Japão";"Masculino";"0-14";"Acidentes de Trânsito";434989;6,2
+2019;"Paquistão";"Feminino";"30-44";"Doenças Infecciosas";79245;3,21
+2016;"Japão";"Masculino";"45-59";"Câncer";452258;12,0
+2022;"Paquistão";"Feminino";"45-59";"Doença Renal";335139;8,69
+2021;"Japão";"Masculino";"30-44";"Suicídio";21749;5,61
+2023;"Paquistão";"Feminino";"15-29";"Suicídio";324894;5,03
+2023;"Rússia";"Masculino";"15-29";"Câncer";291965;8,78
+2021;"Índia";"Masculino";"15-29";"Doenças Infecciosas";213171;7,15
+2019;"Reino Unido";"Masculino";"0-14";"Doenças Cardiovasculares";212984;3,86
+2019;"Brasil";"Feminino";"60+";"Homicídio";35807;7,02
+2015;"China";"Masculino";"15-29";"Doenças Respiratórias";468017;4,37
+2019;"Estados Unidos";"Feminino";"30-44";"Homicídio";301161;6,12
+2019;"Japão";"Masculino";"45-59";"Acidentes de Trânsito";295688;2,07
+2016;"Nigéria";"Masculino";"30-44";"Homicídio";334014;1,19
+2024;"Rússia";"Feminino";"30-44";"Câncer";437819;3,09
+2024;"China";"Feminino";"15-29";"Acidentes de Trânsito";196559;1,71
+2018;"Paquistão";"Masculino";"45-59";"Diabetes";178530;7,6
+2024;"China";"Masculino";"0-14";"Suicídio";452103;2,95
+2020;"Reino Unido";"Feminino";"30-44";"Doença Renal";473236;4,75
+2020;"Estados Unidos";"Masculino";"0-14";"Doenças Cardiovasculares";4275;3,62
+2021;"Índia";"Feminino";"45-59";"Doenças Infecciosas";90597;8,86
+2024;"Estados Unidos";"Masculino";"0-14";"AVC";169875;4,85
+2015;"Brasil";"Masculino";"45-59";"AVC";283970;10,54
+2015;"Rússia";"Masculino";"0-14";"Doenças Respiratórias";31861;6,53
+2018;"Alemanha";"Feminino";"45-59";"Câncer";390992;11,45
+2016;"Índia";"Feminino";"30-44";"Doenças Cardiovasculares";323936;7,56
+2016;"Brasil";"Feminino";"0-14";"Homicídio";272383;4,24
+2025;"Rússia";"Masculino";"45-59";"Doenças Respiratórias";495001;1,04
+2024;"Japão";"Feminino";"15-29";"Desastres Naturais";404655;10,96
+2025;"China";"Feminino";"0-14";"Homicídio";287822;3,46
+2025;"Índia";"Feminino";"15-29";"Acidentes de Trânsito";441963;0,9
+2020;"Paquistão";"Feminino";"30-44";"Homicídio";281245;6,73
+2019;"Alemanha";"Feminino";"15-29";"Diabetes";67754;8,16
+2018;"Índia";"Feminino";"60+";"Diabetes";218660;4,74
+2016;"Paquistão";"Feminino";"30-44";"Câncer";224814;4,38
+2024;"Paquistão";"Masculino";"30-44";"Doenças Cardiovasculares";470058;6,91
+2021;"Brasil";"Feminino";"30-44";"Desastres Naturais";422949;10,77
+2025;"Alemanha";"Feminino";"60+";"Doenças Infecciosas";150818;4,01
+2024;"Rússia";"Masculino";"0-14";"Doenças Cardiovasculares";220317;6,01
+2020;"Nigéria";"Masculino";"0-14";"Desastres Naturais";399874;9,43
+2015;"Reino Unido";"Feminino";"45-59";"Doença Renal";21471;10,86
+2018;"Índia";"Feminino";"15-29";"Doenças Infecciosas";102997;3,13
+2019;"Índia";"Masculino";"45-59";"Suicídio";356658;5,61
+2015;"Reino Unido";"Masculino";"0-14";"Acidentes de Trânsito";388445;5,9
+2023;"Estados Unidos";"Feminino";"45-59";"Doença Renal";367432;3,61
+2015;"China";"Masculino";"15-29";"Doenças Infecciosas";50807;4,97
+2019;"Índia";"Feminino";"60+";"Doenças Respiratórias";350923;9,42
+2025;"Estados Unidos";"Masculino";"0-14";"Doenças Infecciosas";430716;5,75
+2025;"Alemanha";"Feminino";"15-29";"Câncer";331790;7,34
+2017;"Índia";"Feminino";"45-59";"Doenças Cardiovasculares";356201;1,69
+2019;"Brasil";"Masculino";"60+";"Câncer";39749;10,69
+2024;"China";"Masculino";"30-44";"Câncer";21474;9,07
+2024;"Brasil";"Feminino";"0-14";"Doença Renal";105665;3,65
+2020;"Estados Unidos";"Masculino";"0-14";"Homicídio";6112;11,38
+2022;"Brasil";"Masculino";"45-59";"Suicídio";440461;7,02
+2024;"Estados Unidos";"Masculino";"0-14";"Desastres Naturais";260693;10,45
+2025;"Brasil";"Masculino";"45-59";"Suicídio";461372;10,77
+2021;"Rússia";"Feminino";"45-59";"Desastres Naturais";298979;4,54
+2016;"Japão";"Feminino";"15-29";"Doenças Cardiovasculares";404072;9,15
+2017;"Paquistão";"Feminino";"45-59";"Desastres Naturais";486460;2,3
+2020;"China";"Masculino";"45-59";"Desastres Naturais";458158;11,57
+2021;"Reino Unido";"Feminino";"0-14";"Câncer";359486;9,92
+2022;"Brasil";"Feminino";"0-14";"Doenças Infecciosas";141821;1,97
+2022;"Estados Unidos";"Feminino";"60+";"Doenças Infecciosas";93085;3,95
+2020;"Alemanha";"Masculino";"30-44";"Doença Renal";299587;7,58
+2017;"Brasil";"Feminino";"30-44";"AVC";235153;2,24
+2025;"Japão";"Feminino";"15-29";"Doenças Cardiovasculares";363798;2,63
+2021;"Japão";"Masculino";"0-14";"Desastres Naturais";47916;2,64
+2019;"Nigéria";"Masculino";"60+";"Homicídio";440146;1,78
+2020;"Brasil";"Feminino";"30-44";"Acidentes de Trânsito";431387;6,38
+2023;"Estados Unidos";"Feminino";"60+";"AVC";291078;5,58
+2019;"China";"Masculino";"0-14";"Acidentes de Trânsito";127229;11,4
+2024;"Paquistão";"Feminino";"0-14";"Acidentes de Trânsito";474518;2,24
+2020;"Reino Unido";"Feminino";"0-14";"Homicídio";97529;0,97
+2015;"Nigéria";"Masculino";"30-44";"Acidentes de Trânsito";230598;9,12
+2018;"Estados Unidos";"Masculino";"0-14";"Diabetes";449905;4,01
+2023;"Estados Unidos";"Feminino";"45-59";"Doenças Infecciosas";238747;7,25
+2024;"Reino Unido";"Masculino";"45-59";"Homicídio";109775;8,95
+2016;"Paquistão";"Feminino";"30-44";"Doenças Cardiovasculares";278999;2,24
+2020;"Brasil";"Masculino";"0-14";"Diabetes";318252;4,83
+2016;"Alemanha";"Feminino";"45-59";"Suicídio";187818;11,28
+2022;"Reino Unido";"Masculino";"0-14";"Doença Renal";259691;2,25
+2020;"Paquistão";"Feminino";"60+";"Câncer";95864;8,63
+2016;"Reino Unido";"Feminino";"60+";"Doenças Respiratórias";135457;3,95
+2020;"Índia";"Feminino";"0-14";"Doenças Infecciosas";456701;0,49
+2022;"Brasil";"Masculino";"30-44";"Doenças Respiratórias";241972;10,61
+2017;"Estados Unidos";"Masculino";"30-44";"Doenças Cardiovasculares";256795;3,84
+2021;"Estados Unidos";"Masculino";"45-59";"Acidentes de Trânsito";289043;1,53
+2015;"Japão";"Masculino";"15-29";"Doenças Infecciosas";217905;11,39
+2022;"Nigéria";"Masculino";"0-14";"Doença Renal";12148;9,34
+2021;"Reino Unido";"Masculino";"0-14";"Diabetes";449076;3,27
+2016;"Japão";"Feminino";"0-14";"Diabetes";171664;6,24
+2016;"Reino Unido";"Feminino";"15-29";"Doença Renal";162708;11,92
+2025;"China";"Masculino";"0-14";"Doenças Cardiovasculares";73851;2,41
+2023;"Estados Unidos";"Feminino";"60+";"Doença Renal";208406;6,85
+2020;"China";"Feminino";"60+";"Doença Renal";171488;1,56
+2017;"Índia";"Feminino";"60+";"Suicídio";243447;1,58
+2017;"Japão";"Feminino";"30-44";"Doenças Infecciosas";72522;0,89
+2025;"Brasil";"Feminino";"30-44";"Acidentes de Trânsito";321207;2,33
+2019;"Alemanha";"Masculino";"15-29";"Doenças Cardiovasculares";29553;2,58
+2020;"Nigéria";"Feminino";"0-14";"Acidentes de Trânsito";346940;6,89
+2025;"Reino Unido";"Feminino";"45-59";"Doenças Infecciosas";266599;7,06
+2022;"Brasil";"Feminino";"30-44";"Doenças Infecciosas";385103;4,92
+2017;"Japão";"Masculino";"45-59";"Doenças Respiratórias";414252;6,34
+2022;"Nigéria";"Masculino";"0-14";"Doenças Respiratórias";306921;9,28
+2019;"Japão";"Masculino";"0-14";"Desastres Naturais";73809;9,03
+2017;"Reino Unido";"Feminino";"15-29";"Acidentes de Trânsito";177726;10,57
+2022;"Reino Unido";"Masculino";"15-29";"Doenças Cardiovasculares";395580;10,31
+2022;"Estados Unidos";"Feminino";"0-14";"Acidentes de Trânsito";383449;6,11
+2025;"Brasil";"Feminino";"15-29";"Doença Renal";461709;6,74
+2015;"China";"Masculino";"30-44";"Suicídio";82951;4,76
+2020;"Reino Unido";"Feminino";"15-29";"Doenças Respiratórias";135420;1,45
+2018;"Reino Unido";"Masculino";"0-14";"Doenças Infecciosas";481257;8,43
+2016;"Estados Unidos";"Feminino";"15-29";"AVC";240421;0,74
+2016;"Alemanha";"Masculino";"0-14";"Doenças Respiratórias";188583;2,61
+2023;"Estados Unidos";"Masculino";"60+";"Doenças Respiratórias";54683;0,82
+2019;"Japão";"Masculino";"30-44";"AVC";259182;10,59
+2015;"Paquistão";"Feminino";"15-29";"Doenças Respiratórias";399824;3,8
+2020;"Estados Unidos";"Feminino";"15-29";"Doença Renal";51826;0,63
+2024;"Alemanha";"Masculino";"15-29";"Doenças Cardiovasculares";394415;11,11
+2022;"Rússia";"Masculino";"0-14";"Homicídio";43498;2,96
+2021;"China";"Masculino";"45-59";"Suicídio";18190;2,69
+2025;"Japão";"Masculino";"0-14";"Diabetes";66078;10,23
+2021;"Paquistão";"Masculino";"45-59";"Diabetes";151813;8,97
+2025;"Nigéria";"Feminino";"30-44";"Doença Renal";410574;7,67
+2025;"Brasil";"Feminino";"45-59";"Doenças Infecciosas";71116;3,59
+2025;"China";"Feminino";"30-44";"Doenças Cardiovasculares";93998;4,76
+2020;"Estados Unidos";"Masculino";"15-29";"Doenças Cardiovasculares";63246;3,56
+2024;"Paquistão";"Feminino";"60+";"Acidentes de Trânsito";45019;4,57
+2017;"Rússia";"Masculino";"15-29";"Doença Renal";372312;2,11
+2017;"Paquistão";"Masculino";"45-59";"Diabetes";185213;4,92
+2019;"Índia";"Feminino";"0-14";"Doenças Cardiovasculares";335359;3,52
+2021;"Brasil";"Feminino";"45-59";"Doenças Respiratórias";362615;8,2
+2020;"Brasil";"Feminino";"15-29";"Doenças Cardiovasculares";142667;6,63
+2018;"Brasil";"Masculino";"0-14";"Doença Renal";280701;2,78
+2019;"Paquistão";"Feminino";"60+";"Diabetes";28954;1,4
+2023;"Rússia";"Feminino";"60+";"Desastres Naturais";295512;8,5
+2018;"Nigéria";"Masculino";"0-14";"Homicídio";45161;11,3
+2024;"Brasil";"Masculino";"60+";"Doença Renal";366667;2,8
+2021;"Índia";"Feminino";"15-29";"Suicídio";487698;1,4
+2015;"Estados Unidos";"Masculino";"0-14";"Diabetes";169680;8,96
+2021;"Nigéria";"Masculino";"45-59";"Doenças Infecciosas";79457;3,8
+2015;"Índia";"Masculino";"15-29";"Diabetes";482097;2,31
+2016;"Paquistão";"Masculino";"60+";"Doenças Respiratórias";319343;9,25
+2019;"Brasil";"Masculino";"15-29";"Doença Renal";225848;7,55
+2023;"Estados Unidos";"Masculino";"0-14";"Acidentes de Trânsito";234067;4,49
+2018;"Alemanha";"Masculino";"45-59";"Doenças Cardiovasculares";9862;9,52
+2015;"Alemanha";"Feminino";"15-29";"AVC";314563;11,81
+2016;"Rússia";"Feminino";"15-29";"Suicídio";127813;6,23
+2018;"Japão";"Masculino";"45-59";"AVC";338655;6,62
+2019;"Alemanha";"Feminino";"30-44";"Homicídio";210306;7,87
+2023;"Alemanha";"Feminino";"0-14";"Doenças Cardiovasculares";204319;5,47
+2020;"Paquistão";"Feminino";"30-44";"Doenças Respiratórias";206734;10,3
+2021;"Brasil";"Feminino";"0-14";"Suicídio";497419;10,01
+2018;"Rússia";"Feminino";"45-59";"Diabetes";229853;10,55
+2021;"Reino Unido";"Feminino";"60+";"Acidentes de Trânsito";395366;6,06
+2023;"Estados Unidos";"Masculino";"45-59";"Acidentes de Trânsito";155860;11,69
+2021;"Reino Unido";"Masculino";"30-44";"Homicídio";22805;0,92
+2019;"Paquistão";"Feminino";"45-59";"Doenças Respiratórias";219141;2,17
+2021;"Reino Unido";"Masculino";"60+";"Doenças Cardiovasculares";479111;11,71
+2019;"Alemanha";"Masculino";"30-44";"Doenças Respiratórias";442358;0,65
+2015;"Rússia";"Masculino";"60+";"Doenças Cardiovasculares";499331;8,64
+2018;"Reino Unido";"Masculino";"45-59";"Câncer";329314;4,48
+2024;"Rússia";"Masculino";"15-29";"Homicídio";34139;8,08
+2024;"Japão";"Feminino";"15-29";"Acidentes de Trânsito";278877;3,75
+2023;"Nigéria";"Masculino";"15-29";"Doenças Infecciosas";66832;10,9
+2021;"Brasil";"Masculino";"45-59";"Acidentes de Trânsito";169807;9,71
+2019;"Alemanha";"Masculino";"45-59";"Doenças Infecciosas";32890;10,56
+2015;"Japão";"Feminino";"30-44";"Suicídio";83611;0,51
+2025;"China";"Feminino";"15-29";"Homicídio";32804;4,4
+2025;"Estados Unidos";"Feminino";"60+";"Doença Renal";256043;4,31
+2024;"Rússia";"Masculino";"45-59";"Câncer";95466;9,31
+2021;"Rússia";"Masculino";"0-14";"AVC";469412;1,69
+2016;"Reino Unido";"Feminino";"60+";"Câncer";111476;3,25
+2025;"Índia";"Masculino";"60+";"Desastres Naturais";453914;1,29
+2015;"Rússia";"Masculino";"0-14";"Câncer";486467;5,67
+2020;"Índia";"Masculino";"0-14";"Câncer";10721;4,43
+2015;"Alemanha";"Feminino";"30-44";"Homicídio";114210;4,3
+2023;"Estados Unidos";"Masculino";"15-29";"Desastres Naturais";230120;9,3
+2021;"Japão";"Feminino";"60+";"Diabetes";418151;10,04
+2019;"Reino Unido";"Feminino";"15-29";"Doenças Infecciosas";144479;1,06
+2020;"China";"Feminino";"60+";"Desastres Naturais";79201;0,58
+2025;"Nigéria";"Masculino";"60+";"Doenças Cardiovasculares";229325;11,48
+2020;"China";"Masculino";"45-59";"Homicídio";478230;6,39
+2020;"Paquistão";"Masculino";"60+";"Doenças Cardiovasculares";52307;6,93
+2016;"Alemanha";"Masculino";"45-59";"Doença Renal";455818;2,12
+2024;"Reino Unido";"Masculino";"30-44";"Desastres Naturais";265035;0,19
+2025;"Alemanha";"Feminino";"0-14";"Diabetes";403899;4,82
+2018;"Alemanha";"Feminino";"15-29";"Doenças Respiratórias";354149;3,59
+2025;"Nigéria";"Feminino";"0-14";"Doenças Cardiovasculares";66677;7,88
+2016;"Paquistão";"Masculino";"15-29";"Homicídio";387404;11,33
+2015;"Japão";"Feminino";"15-29";"Doenças Cardiovasculares";52733;8,74
+2025;"Paquistão";"Feminino";"0-14";"Câncer";68972;5,16
+2023;"Brasil";"Masculino";"30-44";"Suicídio";472848;9,72
+2019;"China";"Masculino";"30-44";"Diabetes";327145;1,52
